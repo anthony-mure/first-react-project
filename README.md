@@ -19,7 +19,6 @@ Buon lavoro!
 Ciao ragazzi,
 Esercizio di oggi: DC Comics
 nome repo: react-dc-comics
-
 Descrizione:
 Lavoriamo sul nostro sito dei fumetti per dinamicizzare sia la navbar che i fumetti, sfruttando l’iterazione con JSX.
 
