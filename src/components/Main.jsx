@@ -163,8 +163,9 @@ const Main = () => {
       <div className="container">
         <div className="row">
           {comics.map((comic) => {
+            const { id, title,thumb } = comic;
             return(
-             <ComicCard/>
+             <ComicCard key={id} title={title} thumb={thumb} />
             )
           })};
         </div>

@@ -1,6 +1,6 @@
 
 
-const ComicCard = () => {
+const ComicCard = ({id,title,thumb}) => {
   return (
     <div className="col-15">
       <div className="comic-card">
